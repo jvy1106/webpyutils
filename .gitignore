@@ -53,6 +53,5 @@ docs/_build/
 # PyBuilder
 target/
 
-venv/
 *.pyc
 venv/
