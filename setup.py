@@ -10,13 +10,8 @@ setup(name='webpyutils',
         'DBUtils',
         'web.py',
         'flup',
-        'argparse',
     ],  
     packages=[
         'webpyutils',
     ],  
-
-    #entry_points={'console_scripts': [
-    #    'server = webpyutils.api:main',
-    #]},
 )
