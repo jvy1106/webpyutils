@@ -7,7 +7,7 @@ setup(name='webpyutils',
     author_email='jesse@jads.com',
     url='https://github.com/jvy1106/webpyutils',
     download_url='https://github.com/jvy1106/webpyutils/tarball/0.1',
-    keywords = ['api', 'restful', 'server']
+    keywords = ['api', 'restful', 'server'],
     install_requires=[
         'DBUtils',
         'web.py',
